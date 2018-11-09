@@ -1621,16 +1621,16 @@ input::-moz-focus-inner {
 }
 @media only screen and (max-width: 600px) {
   .s-header {
-    height: 90px;
-    top: 12px;
+    height: 80px;
+    top: 20px;
   }
 
   .header-logo {
     left: 30px;
   }
   .header-logo img {
-    width: 180px;
-    height: 34px;
+    width: 80px;
+    height: 80px;
   }
 
   .header-menu-toggle {
@@ -1652,8 +1652,8 @@ input::-moz-focus-inner {
     left: 25px;
   }
   .header-logo img img {
-    width: 141px;
-    height: 27px;
+    width: 80px;
+    height: 80px;
   }
 
   .header-menu-toggle {
