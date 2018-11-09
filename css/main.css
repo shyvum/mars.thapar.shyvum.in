@@ -1622,7 +1622,7 @@ input::-moz-focus-inner {
 @media only screen and (max-width: 600px) {
   .s-header {
     height: 80px;
-    top: 20px;
+    top: 30px;
   }
 
   .header-logo {
